@@ -13,10 +13,17 @@ Sou profissional de TI com +18 anos de experiência, certificada CSPO®, com atu
 ## 📌 Projetos em Destaque
 
 ### 1. Chatbot Mauá (Cidadania Digital)
-- **Função:** PO e Analista de Requisitos
-- **Entregas:** Integração com GovBr e WhatsApp, refinamento de backlog, testes de aceitação, protótipos em Figma
+- **Função:** Product Owner, UX, Analista de Requisitos
+- **Entregas:** Integração com GovBr, SEI e WhatsApp, refinamento de backlog, testes de aceitação, protótipos em Figma
+- Usabilidade aplicada no atendimento humano, integração com canais de atendimento, documentação, manuais e protótipos com foco no cliente.
 - [📄 Documentação do projeto](docs/chatbot-maua-requisitos.pdf)
-- 
+
+
+### 2. Sistema de Controle de Projetos do Fundo da Marinha Mercante
+- **Função:** Product Owner, UX, Analista de Requisitos
+- **Entregas:** Protótipos dinâmicos e funcionais no figma, gerenciamento automático de documentos, fluxos de análise documental para analistas, mensagens automatizadas, modelagem, manuais de usuário e Integrações com SEI, GovBr, SUITE e BNDES;
+- [📄 Documentação do projeto](docs/chatbot-maua-requisitos.pdf)
+
 
 ### 2. Painel BI – Avaliação Institucional
 - **Função:** PO / BI Lead
