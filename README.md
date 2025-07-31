@@ -14,8 +14,7 @@ Sou profissional de TI com +18 anos de experiência, certificada CSPO®, com atu
 
 ### 1. Chatbot Mauá (Cidadania Digital)
 - **Função:** Product Owner, UX, Analista de Requisitos
-- **Entregas:** Integração com GovBr, SEI e WhatsApp, refinamento de backlog, testes de aceitação, protótipos em Figma
-- Usabilidade aplicada no atendimento humano, integração com canais de atendimento, documentação, manuais e protótipos com foco no cliente.
+- **Entregas:** Integração com GovBr, SEI e WhatsApp, refinamento de backlog, testes de aceitação, protótipos em Figma, Usabilidade aplicada no atendimento humano, integração com canais de atendimento, documentação, manuais e protótipos com foco no cliente.
 - [📄 Documentação do projeto](docs/chatbot-maua-requisitos.pdf)
 
 
